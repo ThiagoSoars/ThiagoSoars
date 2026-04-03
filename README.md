@@ -1,4 +1,4 @@
-## Meu nome é Thiago e sou Desenvolvedor de Software com foco em Java, buscando a minha primeira oportunidade na área.👋
+## Meu nome é Thiago e sou Desenvolvedor de Software com foco em Java.👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
